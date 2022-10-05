@@ -1,0 +1,22 @@
+body {
+    margin:0;
+    text-align: center;
+}
+#menu {
+    margin-top:0px;
+    list-style:none;
+    position:fixed;
+    background:rgb(255, 255, 255);
+    width:100%;
+    top:0px;
+    cursor:pointer; 
+}
+.h1s {
+    color:black;
+}
+#canteen img {
+    width:200px;
+}
+#security img {
+    width:200px;
+}
